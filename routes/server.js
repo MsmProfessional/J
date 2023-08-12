@@ -47,7 +47,7 @@ async function Getqr() {
         await vStore(session.user.id);
         let {encryptedPlainText} = await makeid(session.user.id);
   const reply = async () => { 
-     await session.sendMessage(session.user.id, {text:'Asena~'+encryptedPlainText})
+     await session.sendMessage(session.user.id, {text:'X-BOT-MD~'+encryptedPlainText})
   }
     await reply();
     await mongoose.connection.close(function(){console.log("test")})
