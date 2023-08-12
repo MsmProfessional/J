@@ -1,24 +1,24 @@
 {
   "name": "Asena-QR",
   "version": "2.0.0",
-  "description": "made by Afx-Abu free rest api",
+  "description": "made by Afx-Aswin free rest api",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Afx-Abu/Asena-QR"
+    "url": "git+https://github.com/Afx-Aswin/Asena-QR"
   },
   "keywords": [
     "restapi",
     "bot",
     "whatsaap"
   ],
-  "author": "Afx-Abu",
+  "author": "Afx-Aswin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Afx-Abu/Asena-QR/issues"
+    "url": "https://github.com/Afx-Aswin/Asena-QR/issues"
   },
   "homepage": "",
   "dependencies": {
